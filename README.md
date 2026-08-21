@@ -1,9 +1,7 @@
 # delta_demoo
 its a demooo
 unsupervised learning
-# machine learning
-skduhdskfhjdokml
-
+supervised learning
 
 # jojo
 live long
